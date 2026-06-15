@@ -5,11 +5,11 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://linchiuming.github.io/translucent-design/"),
   title: "Translucent Design Studio | Strategic Brand Identity Design",
   description:
-    "A Tainan-based brand design studio crafting clear, strategic, and lasting visual identities for growing businesses and B2B brands.",
+    "A Tainan-based brand design studio crafting clear, strategic, and lasting visual identities. English and Chinese website for growing businesses and B2B brands.",
   openGraph: {
     title: "Translucent Design Studio",
     description:
-      "Clear, strategic, and lasting visual identity systems for brands that need coherence across every touchpoint.",
+      "Clear, strategic, and lasting visual identity systems for brands that need coherence across every touchpoint. Available in English and Chinese.",
     url: "https://linchiuming.github.io/translucent-design/",
     siteName: "Translucent Design Studio",
     locale: "en_US",
